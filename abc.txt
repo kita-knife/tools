@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-显示不出来
 
-重启
-=======
-test1
-test2
-test3
->>>>>>> work
-
-222
-test1
-test2
-test3
